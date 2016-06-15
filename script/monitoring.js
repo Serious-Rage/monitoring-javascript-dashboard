@@ -47,14 +47,14 @@ var MonitoringApi = function() {
    * @type {String}
    * @private
    */
-  this.apiKey_ = '<your-api-key>';
+  this.apiKey_ = 'AIzaSyAUPigr6AwLdlzTvT4YU5Z72vKQCjKOHmo';
 
   /**
    * Google Client ID.
    * @type {String}
    * @private
    */
-  this.clientId_ = '<your-client-id>';
+  this.clientId_ = '11623943231-ej4h8hesfegs2qn8bmmn58bm6iihl5au.apps.googleusercontent.com';
 
   /**
    * Google API scope.
